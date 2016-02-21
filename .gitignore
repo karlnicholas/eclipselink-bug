@@ -1,0 +1,11 @@
+/target/
+/simpleDb/
+/createDDL_ddlGeneration.jdbc
+/derby.log
+/dropDDL_ddlGeneration.jdbc
+/run.sh
+/show-derby.sh
+.settings/
+.project
+.classpath
+.tern-project
